@@ -927,7 +927,7 @@ video {
 }
 
 .bg-hero {
-  background-image: url(/assets/hero/bg.jpg);
+  background-image: url(assets/hero/bg.jpg);
 }
 
 .bg-fixed {
@@ -1317,7 +1317,7 @@ h6 {
   }
 
   .xl\:bg-grid {
-    background-image: url(/assets/grid.png);
+    background-image: url(assets/grid.png);
   }
 
   .xl\:bg-center {
